@@ -1,0 +1,6 @@
+Credentials cache: API:91313E42-B6E8-4208-A684-DFB6786EBF55
+        Principal: adiaz-do@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 13 15:51:12 2019  Nov 14 01:51:12 2019  krbtgt/42MADRID.COM@42MADRID.COM
+Nov 13 15:55:31 2019  Nov 14 01:51:12 2019  host/vogsphere.42madrid.com@42MADRID.COM
